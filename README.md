@@ -1,5 +1,5 @@
 # Random_Quote_Generator
-This projects generates random quotes on a click of a button.
+This projects generates random quotes on page load
 
 # quote.py
 ->The code works fine when you run a console program to generate the random quote. quote.py does the exact same.
